@@ -5,4 +5,7 @@ class C {
  method21(){
    System.out.println("in method 21 ");
 }
+method 321(){
+  System.out.println("in method 21 ");
+}
 }
